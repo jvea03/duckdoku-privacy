@@ -1,0 +1,23 @@
+{
+  "_comment": "Live config for Duckdoku Blast. Copy this file into the jvea03/duckdoku-privacy repo as config.json; it is then served at https://jvea03.github.io/duckdoku-privacy/config.json, which is RemoteConfig.CONFIG_URL. Every value below is the shipped default, so publishing it as-is changes nothing: edit a number, commit, and players pick it up at their next launch (and after an hour away). Only keys in Tunables.DEFAULTS are accepted, with the right type and within 0 to 20x the default; anything else is ignored and a broken file changes nothing.",
+
+  "tunables": {
+    "interstitial_from_level": 30,
+    "interstitial_every_n_wins": 3,
+    "interstitial_every_win_from_level": 60,
+
+    "coins_per_anchor": 100,
+    "no_ads_coin_bonus_percent": 5,
+
+    "booster_buy_count": 3,
+    "booster_pack_cost_hit": 2500,
+    "booster_pack_cost_bomb": 4000,
+    "booster_pack_cost_wave": 4000,
+
+    "popup_sales_enabled": true,
+    "rating_prompt_enabled": true,
+    "reminders_enabled": true,
+    "analytics_enabled": true,
+    "social_enabled": false
+  }
+}
