@@ -21,6 +21,18 @@
     "reminders_enabled": true,
     "analytics_enabled": true,
     "bonus_ads_enabled": true,
-    "social_enabled": false
-  }
+    "social_enabled": false,
+    "leaderboards_enabled": true
+  },
+
+  "inbox": [
+    {
+      "id": "leaderboards-live-2026-11",
+      "title": "Leaderboards are live!",
+      "body": "Win levels to earn anchors and climb the daily, weekly and season boards. The top 3 win coin prizes! Here are 200 coins to get you started.",
+      "coins": 200,
+      "starts": "2026-11-12",
+      "expires": "2026-11-30"
+    }
+  ]
 }
