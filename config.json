@@ -1,7 +1,7 @@
 {
   "_comment": "Live config for Duckdoku Blast. Copy this file into the jvea03/duckdoku-privacy repo as config.json; it is then served at https://jvea03.github.io/duckdoku-privacy/config.json, which is RemoteConfig.CONFIG_URL. Every value below is the shipped default, so publishing it as-is changes nothing: edit a number, commit, and players pick it up at their next launch (and after an hour away). Only keys in Tunables.DEFAULTS are accepted, with the right type and within 0 to 20x the default; anything else is ignored and a broken file changes nothing.",
 
-  "min_build": 19,
+  "min_build": 40,
 
   "tunables": {
     "interstitial_from_level": 20,
@@ -12,9 +12,9 @@
     "no_ads_coin_bonus_percent": 5,
 
     "booster_buy_count": 3,
-    "booster_pack_cost_hit": 2500,
-    "booster_pack_cost_bomb": 4000,
-    "booster_pack_cost_wave": 4000,
+    "booster_pack_cost_hit": 3000,
+    "booster_pack_cost_bomb": 4500,
+    "booster_pack_cost_wave": 4500,
 
     "popup_sales_enabled": true,
     "rating_prompt_enabled": true,
@@ -32,6 +32,33 @@
       "body": "Win levels to earn anchors and climb the daily, weekly and season boards. The top 3 win coin prizes! Here are 200 coins to get you started.",
       "coins": 200,
       "starts": "2026-11-12",
+      "expires": "2026-11-30"
+    },
+    {
+      "id": "leaderboard-fix-2026-11",
+      "title": "Sorry about the leaderboards!",
+      "body": "Thanks for playing in our first leaderboard week! Some players ended up on a different daily board because of their time zone, so they couldn't see each other. This update fixes that: everyone now shares the same boards, and they all reset at the same moment worldwide. Here's a little something for your patience.",
+      "coins": 500,
+      "hit": 2,
+      "min_build": 33,
+      "expires": "2026-12-31"
+    },
+    {
+      "id": "launch-thanks-2026-11",
+      "title": "Thanks for joining the launch!",
+      "body": "Thank you for playing Duckdoku Blast in its very first weeks! This update is packed with improvements: volume sliders, profile stats, new sounds, smoother screens and more. The Thanksgiving Pass is a one-time mini pass: 20 tiers in just two weeks, with the Cornucopia Ship and a Thanksgiving sticker. Here are 10 golden ducks, enough to unlock its Premium track for free!",
+      "golden": 10,
+      "min_build": 35,
+      "starts": "2026-11-22",
+      "expires": "2026-12-05"
+    },
+    {
+      "id": "thanksgiving-weekend-2026",
+      "title": "Happy Thanksgiving! 2× anchors all weekend",
+      "body": "From Thursday to Sunday, every win pays 2× anchors: climb your Thanksgiving Pass and the leaderboards twice as fast! Join the World Duck Hunt too: find ducks with players everywhere to unlock the Turkey Duck! The Thanksgiving Feast is on through Cyber Monday: 130,000 coins and 10 of every booster for $4.99. Here's a free Bomb to start your weekend!",
+      "bomb": 1,
+      "min_build": 39,
+      "starts": "2026-11-26",
       "expires": "2026-11-30"
     }
   ]
