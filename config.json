@@ -60,6 +60,117 @@
       "min_build": 39,
       "starts": "2026-11-26",
       "expires": "2026-11-30"
+    },
+    {
+      "id": "xmas-day-01-2026",
+      "title": "Day 1 of Christmas: a duck in a pear tree",
+      "body": "On the first day of Christmas, the Duckdoku crew gave to me... a duck in a pear tree! A new gift waits here every day until Christmas. Here are 1,000 coins to start.",
+      "coins": 1000,
+      "min_build": 40,
+      "starts": "2026-12-14",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-02-2026",
+      "title": "Day 2 of Christmas: two turtle ducks",
+      "body": "On the second day of Christmas, the Duckdoku crew gave to me... two turtle ducks! They brought you 2 Sonar to find those hidden ships.",
+      "hit": 2,
+      "min_build": 40,
+      "starts": "2026-12-15",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-03-2026",
+      "title": "Day 3 of Christmas: three French hens",
+      "body": "On the third day of Christmas, the Duckdoku crew gave to me... three French hens! (They said they were ducks. We let it slide.) Here are 3,000 coins.",
+      "coins": 3000,
+      "min_build": 40,
+      "starts": "2026-12-16",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-04-2026",
+      "title": "Day 4 of Christmas: four quacking birds",
+      "body": "On the fourth day of Christmas, the Duckdoku crew gave to me... four quacking birds! They're very loud, so they brought 2 Bombs to match.",
+      "bomb": 2,
+      "min_build": 40,
+      "starts": "2026-12-17",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-05-2026",
+      "title": "Day 5 of Christmas: FIVE GOLDEN COINS!",
+      "body": "On the fifth day of Christmas, the Duckdoku crew gave to me... five golden coins! Well, five thousand of them. Sing it with us!",
+      "coins": 5000,
+      "min_build": 40,
+      "starts": "2026-12-18",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-06-2026",
+      "title": "Day 6 of Christmas: six ducks a-laying",
+      "body": "On the sixth day of Christmas, the Duckdoku crew gave to me... six ducks a-laying! Their eggs hatched into 6,000 coins.",
+      "coins": 6000,
+      "min_build": 40,
+      "starts": "2026-12-19",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-07-2026",
+      "title": "Day 7 of Christmas: seven ducks a-swimming",
+      "body": "On the seventh day of Christmas, the Duckdoku crew gave to me... seven ducks a-swimming! They made such a splash it turned into 2 Tidal Waves.",
+      "wave": 2,
+      "min_build": 40,
+      "starts": "2026-12-20",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-08-2026",
+      "title": "Day 8 of Christmas: eight sailors sailing",
+      "body": "On the eighth day of Christmas, the Duckdoku crew gave to me... eight sailors sailing! They found 8,000 coins in the hold.",
+      "coins": 8000,
+      "min_build": 40,
+      "starts": "2026-12-21",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-09-2026",
+      "title": "Day 9 of Christmas: nine ducks dancing",
+      "body": "On the ninth day of Christmas, the Duckdoku crew gave to me... nine ducks dancing! They danced right past the fleet and left you 3 Sonar.",
+      "hit": 3,
+      "min_build": 40,
+      "starts": "2026-12-22",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-10-2026",
+      "title": "Day 10 of Christmas: ten captains leaping",
+      "body": "On the tenth day of Christmas, the Duckdoku crew gave to me... ten captains leaping! Santa's Sack is in the shop on Home today, and here are 10,000 coins.",
+      "coins": 10000,
+      "min_build": 41,
+      "starts": "2026-12-23",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-11-2026",
+      "title": "Day 11 of Christmas: eleven bombs a-booming",
+      "body": "On the eleventh day of Christmas, the Duckdoku crew gave to me... eleven bombs a-booming! Okay, three. Eleven was too loud. Have a booming Christmas Eve!",
+      "bomb": 3,
+      "min_build": 40,
+      "starts": "2026-12-24",
+      "expires": "2027-01-02"
+    },
+    {
+      "id": "xmas-day-12-2026",
+      "title": "Day 12: Merry Christmas from the crew!",
+      "body": "On the twelfth day of Christmas, the Duckdoku crew gave to me... twelve ships a-sinking! Thank you for playing with us this year. Here are 12,000 coins and one of every booster. Merry Christmas!",
+      "coins": 12000,
+      "hit": 1,
+      "bomb": 1,
+      "wave": 1,
+      "min_build": 40,
+      "starts": "2026-12-25",
+      "expires": "2027-01-02"
     }
   ]
 }
