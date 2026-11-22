@@ -29,6 +29,13 @@
 
   "inbox": [
     {
+      "id": "weekly-quests-note-2026-11",
+      "title": "New weekly quests are on the way!",
+      "body": "A fresh set of weekly quests arrives when the new week starts: Monday 00:00 UTC (Sunday afternoon in the Americas). Until then, last week's unfinished quests still count, and everything you collect goes into your Thanksgiving Pass!",
+      "starts": "2026-11-21",
+      "expires": "2026-11-23"
+    },
+    {
       "id": "leaderboards-live-2026-11",
       "title": "Leaderboards are live!",
       "body": "Win levels to earn anchors and climb the daily, weekly and season boards. The top 3 win coin prizes! Here are 200 coins to get you started.",
