@@ -184,16 +184,16 @@
     {
       "id": "thanksgiving-gift-2026",
       "title": "Happy Thanksgiving!",
-      "body": "The Duckdoku crew is grateful for you. Here's 2,000 coins for your feast — go hunt some duck-ships!",
-      "coins": 2000,
+      "body": "The Duckdoku crew is grateful for you. Here's 5,000 coins for your feast — go hunt some duck-ships!",
+      "coins": 5000,
       "starts": "2026-11-26",
       "expires": "2026-11-27"
     },
     {
       "id": "black-friday-2026",
       "title": "Black Friday treat!",
-      "body": "The shop's buzzing, and so is the pond. Here's 1,000 coins from the crew — a little something for your collection.",
-      "coins": 1000,
+      "body": "The shop's buzzing, and so is the pond. Here's 5,000 coins from the crew — a little something for your collection.",
+      "coins": 5000,
       "starts": "2026-11-27",
       "expires": "2026-11-29"
     },
