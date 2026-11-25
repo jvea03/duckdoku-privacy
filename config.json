@@ -4,8 +4,8 @@
   "min_build": 40,
 
   "tunables": {
-    "anchor_boost_start_day": 20779,
-    "anchor_boost_end_day": 20782,
+    "anchor_boost_start_day": 20783,
+    "anchor_boost_end_day": 20787,
     "interstitial_from_level": 20,
     "interstitial_every_n_wins": 3,
     "interstitial_every_win_from_level": 60,
