@@ -180,6 +180,32 @@
       "min_build": 40,
       "starts": "2026-12-25",
       "expires": "2027-01-02"
+    },
+    {
+      "id": "thanksgiving-gift-2026",
+      "title": "Happy Thanksgiving!",
+      "body": "The Duckdoku crew is grateful for you. Here's 2,000 coins for your feast — go hunt some duck-ships!",
+      "coins": 2000,
+      "starts": "2026-11-26",
+      "expires": "2026-11-27"
+    },
+    {
+      "id": "black-friday-2026",
+      "title": "Black Friday treat!",
+      "body": "The shop's buzzing, and so is the pond. Here's 1,000 coins from the crew — a little something for your collection.",
+      "coins": 1000,
+      "starts": "2026-11-27",
+      "expires": "2026-11-29"
+    },
+    {
+      "id": "cyber-monday-2026",
+      "title": "Cyber Monday boost!",
+      "body": "One last gift from the crew: 5 Sonar, 5 Bombs, and 5 Tidal Waves. Go make some splashes!",
+      "hit": 5,
+      "bomb": 5,
+      "wave": 5,
+      "starts": "2026-11-30",
+      "expires": "2026-12-01"
     }
   ]
 }
